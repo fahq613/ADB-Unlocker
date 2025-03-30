@@ -1,0 +1,12 @@
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="false">ADB Unlocker</string>
+
+    <!-- Connection Status -->
+    <string name="device_not_connected">Device not connected</string>
+    <string name="check_connection">Check connection</string>
+
+    <!-- Actions -->
+    <string name="unlock">Unlock</string>
+</resources>
