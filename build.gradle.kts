@@ -1,1 +1,6 @@
-plugins { kotlin("android") version "1.9.22" }
+buildscript {
+    ext.kotlin_version = '1.9.23' // or newer, if available
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
